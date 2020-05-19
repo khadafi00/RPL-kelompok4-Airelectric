@@ -3,7 +3,7 @@ Aplikasi pemantau tingkat polusi udara dan tingkat pemakaian bulanan listrik
 
 ## Anggota Kelompok 16
 1. Reza Achmad Naufal **G64180078**
-2.  **G64180000**.
+2. Muhammad Khadafi **G64180039**.
 3.  **G64800000**.
 
 # Latar Belakang
@@ -75,3 +75,4 @@ Target dari aplikasi ini adalah masyarakat, terutama orang yang sudah bekerja da
 ## Penjelasan Singkat
 Kami telah membuat video berupa tampilan dari implementasi perangkat lunak yang telah kami buat. video ini menjadi bukti bahwa aplikasi kita sudah bisa dijalankan walau tidak maksimal. Kami berharap aplikasi kami bisa berguna kelak.
 ### Link Video
+https://youtu.be/plRGSOh6ar4
