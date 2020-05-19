@@ -1,6 +1,3 @@
-[submodule "airelectric-flutter"]
-	path = airelectric-flutter
-	url = https://github.com/RezaAchmadN/Airelectric-FlutterProject.git
 [submodule "airelectric-laravel"]
 	path = airelectric-laravel
 	url = https://github.com/RezaAchmadN/Airelectric-LaravelProject.git
