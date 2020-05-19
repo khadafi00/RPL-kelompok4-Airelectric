@@ -75,3 +75,4 @@ Target dari aplikasi ini adalah masyarakat, terutama orang yang sudah bekerja da
 ## Penjelasan Singkat
 Kami telah membuat video berupa tampilan dari implementasi perangkat lunak yang telah kami buat. video ini menjadi bukti bahwa aplikasi kita sudah bisa dijalankan walau tidak maksimal. Kami berharap aplikasi kami bisa berguna kelak.
 ### Link Video
+https://youtu.be/plRGSOh6ar4
